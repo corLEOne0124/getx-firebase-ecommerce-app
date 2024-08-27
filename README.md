@@ -12,7 +12,7 @@ Rating System: Integrated product rating system with the flutter_rating_bar pack
 Progress Indicators: capped_progress_indicator is used to show the progress in various parts of the app.
 Expandable Text: The readmore package is used to handle expandable text in product descriptions.
 
-### startAndHome Screen
+### Start and Home Screen
 ![Start and Home](./assets/authAndHome.gif)
 
 ### Store, Wishlist, Profile Screen
